@@ -12,7 +12,6 @@ import org.springframework.stereotype.Component;
 @NoArgsConstructor
 @Getter
 @Setter
-@Component
 @Entity
 public class Rule {
 
